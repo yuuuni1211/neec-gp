@@ -1,2 +1,3 @@
-# neec-gp
-IS10卒業制作+IS11メンバー入り
+# IS10卒業制作
+チーム名 Attendans
+
