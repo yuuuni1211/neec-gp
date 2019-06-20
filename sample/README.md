@@ -1,23 +1,20 @@
-# sample
+# アプリ名CTS(仮)
 
-> Nuxt.js project
+> IS10卒業制作
 
-## Build Setup
+## アプリケーションの利用方法
 
 ``` bash
-# install dependencies
+# 必要なパッケージをローカルにインストールします
 $ npm install # Or yarn install
 
-# serve with hot reload at localhost:3000
+# localhost:3000でアクセスができます
 $ npm run dev
 
-# build for production and launch server
+# ビルドしてサーバーにアップロードできます
 $ npm run build
 $ npm start
 
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
