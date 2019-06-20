@@ -18,8 +18,8 @@
 - 飛山
 ### 使用技術
 プログラミング言語
-- Javascript フロント
-- Python　バック
+- Javascript フロントエンド
+- Python　バックエンド
 フレームワーク
 - Nuxt.js
 - Express
@@ -27,11 +27,3 @@
 - node.js サーバ
 DB
 - PostgresSQL
-
-
-
-
-
-
-
-
