@@ -34,10 +34,7 @@ module.exports = {
         })
       }
     }
-  }
-}
-
-{
+  },
   modules:[
 
     ['cookie-universal-nuxt', { parseJSON: false }]
