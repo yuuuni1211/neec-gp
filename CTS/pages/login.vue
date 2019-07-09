@@ -41,7 +41,8 @@
      </div>
        </div>
        <div class="var3">
-       <a href="https://www.youtube.com/channel/UCO3T-He-DOnSwm1Dbl42Qfw" class="btn-horizontal-border">Log in</a>
+         <a href="https://www.youtube.com/channel/UCO3T-He-DOnSwm1Dbl42Qfw" class="border_spread_btn">Log in</a>
+
       </div>
 </section>
 </template>
@@ -57,7 +58,7 @@ body
 {
 background-repeat: no-repeat;
 background-size: cover;
-background-image: url("https://www.instagram.com/p/BYCoW3dDr4X/media?size=l");
+background-image: url("Yoyo.jpg");
 }
 
 
@@ -98,7 +99,7 @@ margin:35px 0 0 500px;
 .var3{
 display:inline-block;
 position: absolute;
-margin:15px 0 0 700px;
+margin:15px 0 0 730px;
 }
 .var4{
 padding:0 60px 0 0px;
@@ -133,7 +134,7 @@ padding:10px;
 h1{
 font-size:64px;
 font-family: 'Sawarabi Mincho', sans-serif;
-color:#66FFFF;
+color:white;
 position:absolute;
 top:120px;
 left:560px;
@@ -312,5 +313,31 @@ label.watanabe{
 
 .btn-flat-logo:hover {
   background: #1ec7bb;
+}
+
+.border_spread_btn {
+  position: relative;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+.border_spread_btn:hover {
+  cursor: pointer;
+  text-decoration: none;
+}
+.border_spread_btn::after {
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: white;
+  transform: scale(0.5, 1);
+  transform-origin: center top;
+  transition: transform .3s;
+}
+.border_spread_btn:hover::after {
+  transform: scale(1, 1);
 }
 </style>
