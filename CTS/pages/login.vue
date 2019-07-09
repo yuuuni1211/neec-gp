@@ -1,17 +1,6 @@
 <template>
 
-
-  <section>
-   <link rel="stylesheet" href="baba.css" >
-   <title>教員用ログイン画面</title>
-   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Pacifico&display=swap" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=Faster+One&display=swap" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=Literata&display=swap" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
-   <link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
+<section>
 
      <div class="ishikawa">
       </div>
@@ -136,7 +125,7 @@ font-size:64px;
 font-family: 'Sawarabi Mincho', sans-serif;
 color:white;
 position:absolute;
-top:120px;
+top:70px;
 left:560px;
 
 

@@ -4,6 +4,18 @@
   </div>
 </template>
 
+
+<link rel="stylesheet" href="baba.css" >
+<title>教員用ログイン画面</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond|Pacifico&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Faster+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Literata&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap" rel="stylesheet">
+
 <style>
 html {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -50,4 +62,3 @@ html {
   background-color: #35495e;
 }
 </style>
-
