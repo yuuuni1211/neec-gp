@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "attendance",
+    "password": "neec-gp",
+    "database": "cts",
+    "host": "210.254.223.145",
+    "port":"55252",
+    "dialect": "postgres",
+    "ssl":"on",
+    "native":true
+  },
+  "test": {
+    "username": "attendance",
+    "password": "neec-gp",
+    "database": "cts",
+    "host": "210.254.223.145",
+    "port":"55252",
+    "dialect": "postgres",
+    "ssl":"on",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "attendance",
+    "password": "neec-gp",
+    "database": "cts",
+    "host": "210.254.223.145",
+    "port":"55252",
+    "dialect": "postgres",
+    "ssl":"on",
+    "operatorsAliases": false
+  }
+}

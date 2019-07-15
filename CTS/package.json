@@ -13,15 +13,33 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "2": "^2.0.0",
     "cookie-universal-nuxt": "^2.0.16",
-    "nuxt": "^2.0.0"
+    "dgram": "^1.0.1",
+    "dgramx": "^0.3.0",
+    "dns": "^0.2.2",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "net": "^1.0.2",
+    "node-gyp": "^5.0.2",
+    "nuxt": "^2.8.1",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "pg-native": "^3.0.0",
+    "rebuild": "^0.1.2",
+    "sequelize": "^5.10.0",
+    "sequelize-cli": "^5.5.0",
+    "tedious": "^6.2.0",
+    "tls": "0.0.1"
   },
   "devDependencies": {
     "axios": "^0.19.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^4.0.1",
-    "eslint-loader": "^2.1.1",
-    "eslint-plugin-vue": "^4.0.0"
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "negotiator": "^0.6.2"
   }
 }
